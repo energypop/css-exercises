@@ -1,0 +1,20 @@
+.class_element {
+    background-color: #fc8383;
+    color: black;
+    font-size: 18px;
+}
+
+.class_element.cooler {
+    font-size: 25px;
+}
+
+#first_id {
+    color: rgb(3, 70, 255);
+    font-size: 30px;
+}
+
+#last_id {
+    background-color: rgb(152, 240, 152);
+    font-size: 25px;
+    font-weight: bold;
+}
